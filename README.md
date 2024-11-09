@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @linkones
-- 👀 I’m interested in music
+- 👀 I’m interested in music and guitar
 - 🌱 I’m currently learning cs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
